@@ -1,2 +1,2 @@
 # hackerrank
-hackerrank pronlem solve
+hackerrank problem solve
