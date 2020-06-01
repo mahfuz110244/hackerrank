@@ -1,4 +1,4 @@
-#  2. swap-list : https://www.hackerrank.com/challenges/swap-case
+#  2. swap-case : https://www.hackerrank.com/challenges/swap-case
 def swap_case1(input_string):
     input_string = list(input_string)
     toggle_string = ''
