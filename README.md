@@ -8,3 +8,4 @@ username: mahfuz110244
  4. find-a-string https://www.hackerrank.com/challenges/find-a-string/
  5. string-validators https://www.hackerrank.com/challenges/string-validators/
  6. text-alignment https://www.hackerrank.com/challenges/text-alignment/
+ 7. designer-door-mat https://www.hackerrank.com/challenges/designer-door-mat/
