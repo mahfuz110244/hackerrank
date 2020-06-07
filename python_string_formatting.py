@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/python-string-formatting/
 def print_formatted(number):
     # your code goes here
     # For spacing between the each column, based on the integer limit given.
