@@ -9,3 +9,4 @@ username: mahfuz110244
  5. string-validators https://www.hackerrank.com/challenges/string-validators/
  6. text-alignment https://www.hackerrank.com/challenges/text-alignment/
  7. designer-door-mat https://www.hackerrank.com/challenges/designer-door-mat/
+ 8. python-string-formatting https://www.hackerrank.com/challenges/python-string-formatting/
