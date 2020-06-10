@@ -10,4 +10,5 @@ username: mahfuz110244
  6. text-alignment https://www.hackerrank.com/challenges/text-alignment/
  7. designer-door-mat https://www.hackerrank.com/challenges/designer-door-mat/
  8. python-string-formatting https://www.hackerrank.com/challenges/python-string-formatting/
- 9. alphabet-rangoli # https://www.hackerrank.com/challenges/alphabet-rangoli/
+ 9. alphabet-rangoli https://www.hackerrank.com/challenges/alphabet-rangoli/
+ 10. capitalize https://www.hackerrank.com/challenges/capitalize/
