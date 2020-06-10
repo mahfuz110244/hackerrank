@@ -12,3 +12,4 @@ username: mahfuz110244
  8. python-string-formatting https://www.hackerrank.com/challenges/python-string-formatting/
  9. alphabet-rangoli https://www.hackerrank.com/challenges/alphabet-rangoli/
  10. capitalize https://www.hackerrank.com/challenges/capitalize/
+ 11. the-minion-game https://www.hackerrank.com/challenges/the-minion-game
