@@ -13,3 +13,4 @@ username: mahfuz110244
  9. alphabet-rangoli https://www.hackerrank.com/challenges/alphabet-rangoli/
  10. capitalize https://www.hackerrank.com/challenges/capitalize/
  11. the-minion-game https://www.hackerrank.com/challenges/the-minion-game
+ 12. merge-the-tools https://www.hackerrank.com/challenges/merge-the-tools/
