@@ -14,3 +14,5 @@ username: mahfuz110244
  10. capitalize https://www.hackerrank.com/challenges/capitalize/
  11. the-minion-game https://www.hackerrank.com/challenges/the-minion-game
  12. merge-the-tools https://www.hackerrank.com/challenges/merge-the-tools/
+ 13. counting-valleys https://www.hackerrank.com/challenges/counting-valleys
+ 14. jumping-on-the-clouds: https://www.hackerrank.com/challenges/jumping-on-the-clouds/
