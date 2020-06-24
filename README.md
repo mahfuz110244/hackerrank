@@ -18,3 +18,4 @@ username: mahfuz110244
  14. jumping-on-the-clouds: https://www.hackerrank.com/challenges/jumping-on-the-clouds/
  15. repeated-string https://www.hackerrank.com/challenges/repeated-string
  16. collections-counter https://www.hackerrank.com/challenges/collections-counter/
+ 17. defaultdict-tutorial https://www.hackerrank.com/challenges/defaultdict-tutorial/
