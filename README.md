@@ -23,3 +23,4 @@ username: mahfuz110244
  19. word-order https://www.hackerrank.com/challenges/word-order/
  20. py-collections-deque https://www.hackerrank.com/challenges/py-collections-deque/
  21. py-introduction-to-sets https://www.hackerrank.com/challenges/py-introduction-to-sets
+ 22. exceptions https://www.hackerrank.com/challenges/exceptions/
